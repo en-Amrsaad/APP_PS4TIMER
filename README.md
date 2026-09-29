@@ -22,9 +22,3 @@
 * **إطار العمل:** Flutter
 * **لغة البرمجة:** Dart
 * **واجهة المستخدم:** Material Design 3 بتصميم متجاوب ويدعم اللغة العربية (RTL).
-
-## ⚙️ طريقة التشغيل (Run the App)
-لتشغيل المشروع محلياً على جهازك:
-1. قم باستنساخ المستودع: 
-   ```bash
-   git clone [https://github.com/en-Amrsaad/APP_PS4TIMER.git](https://github.com/en-Amrsaad/APP_PS4TIMER.git)
