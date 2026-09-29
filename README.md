@@ -1,16 +1,19 @@
-# app_ps4timer
+# ⏱️ تطبيق إدارة مؤقت البلايستيشن (PS4 Timer Manager)
 
-A new Flutter project.
+تطبيق للهواتف المحمولة تم تطويره باستخدام إطار عمل Flutter ولغة Dart لإدارة وحساب أوقات اللعب والجلسات بكفاءة.
 
-## Getting Started
+## 🚀 التقنيات المستخدمة
+* **إطار العمل:** Flutter
+* **لغة البرمجة:** Dart
+* **هيكلة التطبيق:** (اكتب هنا النمط الذي استخدمته، مثل Clean Architecture أو MVC)
+* **إدارة الحالة (State Management):** (اكتب هنا الأداة المستخدمة مثل GetX, Provider, أو Bloc)
 
-This project is a starting point for a Flutter application.
+## 📸 واجهة التطبيق
+*(ملاحظة: التقط صورة لشاشة التطبيق من المحاكي، ضعها في مجلد images، واستبدل هذا السطر بكود الصورة)*
+![واجهة التطبيق](images/app_screenshot.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ طريقة التشغيل محلياً
+1. تأكد من تثبيت بيئة عمل Flutter (Flutter SDK).
+2. قم باستنساخ المستودع: `git clone https://github.com/en-Amrsaad/APP_PS4TIMER.git`
+3. قم بتثبيت الحزم المعتمدة: `flutter pub get`
+4. شغل التطبيق على المحاكي أو جهاز حقيقي: `flutter run`
